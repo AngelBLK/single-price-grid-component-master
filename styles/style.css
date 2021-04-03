@@ -136,7 +136,7 @@ button{
 
 @media screen  and (min-width: 375px) {
     .grid__container{
-        width: 80%;
+        width: 85%;
         grid-template-columns: 1fr;
         grid-template-rows: repeat(3, 1fr);
         margin: 50px auto;
