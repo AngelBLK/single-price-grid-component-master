@@ -134,7 +134,7 @@ button{
     font-size: .98rem;
 }
 
-@media screen  and (max-width:400px) {
+@media screen  and (min-width:400px) {
     .grid__container{
         width: 80%;
         grid-template-columns: 1fr;
